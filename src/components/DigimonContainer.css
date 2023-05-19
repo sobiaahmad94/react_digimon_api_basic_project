@@ -1,0 +1,9 @@
+/* CSS applied to everything */
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+
+* {
+    background-color: rgb(226, 223, 223);
+    color:rgb(80, 159, 183);
+    font-family: 'Saira', sans-serif;
+}
+
